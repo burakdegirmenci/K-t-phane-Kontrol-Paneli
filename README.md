@@ -1,6 +1,6 @@
 # 📚 Kütüphane Yönetim Paneli (Admin Panel)
 
-Bu proje, kütüphane yönetimi için geliştirilmiş bir admin panelidir. Projede kitap, yazar, yayınevi (publisher), admin gibi varlıkların eklenmesi, silinmesi ve güncellenmesi işlemleri yapılabilmektedir.
+Bu proje, kütüphane yönetimi için geliştirilmiş bir admin panelidir. Projede kitap, yazar, yayınevi, admin gibi verilerin eklenmesi, silinmesi ve güncellenmesi işlemleri yapılabilmektedir.
 
 ## ✨ Özellikler
 
