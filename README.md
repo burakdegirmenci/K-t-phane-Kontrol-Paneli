@@ -33,6 +33,7 @@ Bu proje, kütüphane yönetimi için geliştirilmiş bir admin panelidir. Proje
 - **EntityFramework Proxies**
 - **Sql Server**
 - **Mapster**
+- **Dependency Injection**
 
 ## 📂 Proje Yapısı
 
